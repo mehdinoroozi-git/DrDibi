@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">DrDibi</string>
+    <string name="app_name">دکتر دیبی </string>
+    <string name="navigation_drawer_open"> باز کنید</string>
+    <string name="navigation_drawer_close"> ببندید</string>
+
 </resources>
